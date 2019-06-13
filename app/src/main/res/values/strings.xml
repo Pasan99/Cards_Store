@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Card Store</string>
+    <string name="home_toolbar_name">Birthday Cards</string>
+    <string name="search_bar_text">Search</string>
+    <string name="cards_view_adapter_name">Birthday Card 01</string>
+    <string name="cards_view_adapter_description">This card is suitable for children who is under age of 12. This is specially made for them.</string>
+    <string name="cards_view_adapter_quality_des">Quality Ratio : </string>
+    <string name="cards_view_adapter_quality">10</string>
+    <string name="cards_view_adapter_price">Rs.100.00</string>
+    <string name="cards_view_adapter_favourite">Add to Favourites</string>
+    <string name="card_description_buy_button">Buy Now</string>
+    <string name="card_description_cart_button">Add to Cart</string>
+    <string name="user_name">Pasan Manohara</string>
+    <string name="user_type">Platinum Member</string>
+    <string name="favourites">My Favourites</string>
+
+    <string name="orders">My Orders</string>
+    <string name="shipping">Shipping Details</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_custom">Customized</string>
+    <string name="menu_user_profile">User Profile</string>
+    <string name="cart_title">My Cart</string>
+    <string name="cart_extra_details">Small, Black</string>
+    <string name="cart_total_text">Total</string>
+    <string name="birthday">1999/01/10</string>
+    <string name="gender">Male</string>
+    <string name="save">Save Changes</string>
+
+</resources>
