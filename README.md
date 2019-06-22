@@ -1,4 +1,4 @@
-# Card Store
+# Card Store Android Application
 This is a online store which sells birthday cards, wedding cards, and much more craft works. <br>
 There is only one backend user, the actual store owner. Ohter users are customers, they can find and buy cards they want.
 
