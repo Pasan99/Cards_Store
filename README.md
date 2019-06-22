@@ -3,7 +3,7 @@ This is a online store which sells birthday cards, wedding cards, and much more 
 There is only one backend user, the actual store owner. Ohter users are customers, they can find and buy cards they want.
 
 # Screenshots
-<img src="app/Home%20Screen.PNG" width="100" height="200"><img src="app/Card%20Description.PNG" width="100" height="200"><img src="app/User%20Profile.PNG" width="100" height="200"><img src="app/Cart.PNG" width="100" height="200"><img src="app/Order%20Confirmation.PNG" width="100" height="200">
+<img src="app/Home%20Screen.PNG" width="200" height="400"><img src="app/Card%20Description.PNG" width="200" height="400"><img src="app/User%20Profile.PNG" width="200" height="400"><img src="app/Cart.PNG" width="200" height="400"><img src="app/Order%20Confirmation.PNG" width="200" height="400">
 
 # Services Used
 Database - Firebase (by GOOGLE)<br>
